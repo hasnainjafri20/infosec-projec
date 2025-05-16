@@ -1,0 +1,7 @@
+Flask>=2.2
+Flask-Talisman>=1.0
+Flask-WTF>=1.0
+python-dotenv>=1.0
+pycryptodome>=3.15
+# py-crystals-kyber
+crystals

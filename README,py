@@ -1,0 +1,9 @@
+# Post-Quantum Cryptography Web App
+
+This Flask application demonstrates key generation, encryption, and decryption using a post-quantum KEM (Kyber512).
+
+## Setup
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/youruser/pqc_app.git
+   cd pqc_app
